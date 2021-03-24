@@ -1,0 +1,7 @@
+{
+  "name": "AfterApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
